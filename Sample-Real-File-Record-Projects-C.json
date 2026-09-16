@@ -1,0 +1,75 @@
+{
+  "projects_c_real_file_example": {
+    "Name": "Aarish Heights",
+    "project_id_c": "PNP003",
+    "type_c": "Sale",
+    "bhk_c": "2BHK",
+    "price_c": "68L",
+    "location_c": "Sector-3",
+    "description_c": "Luxury 2BHK at FLAT NO 201 AARISH HEIGHTS Panvel - Corporate office. CIDCO approved RERA registered, G+7 with lift, premium amenities. V46 Premium Locked.",
+    "main_image_c": {
+      "type": "File",
+      "real_storage": "Apper File Storage + R2 pushpak-v46-media/",
+      "file_name": "aarish-heights-main-2bhk-68L.jpg",
+      "file_id": "file_8b7b9332_aarish_main",
+      "url": "https://r2.pushpaknagarproperties.org/pushpak-v46-media/aarish-heights-main-2bhk-68L.jpg",
+      "webp_optimized": true,
+      "srcset": [
+        "400w",
+        "800w",
+        "1200w"
+      ],
+      "size": "1.2 MB",
+      "alt": "Aarish Heights 2BHK 68L Panvel Sector-3 Premium V46"
+    },
+    "gallery_images_c": {
+      "type": "File Array Real Storage",
+      "files": [
+        {
+          "file_name": "aarish-front.jpg",
+          "file_id": "file_1",
+          "url": "https://r2.pushpaknagarproperties.org/gallery/aarish-front.jpg",
+          "webp": true
+        },
+        {
+          "file_name": "aarish-interior-1.jpg",
+          "file_id": "file_2",
+          "url": "https://r2.pushpaknagarproperties.org/gallery/aarish-interior-1.jpg"
+        },
+        {
+          "file_name": "aarish-interior-2.jpg",
+          "file_id": "file_3",
+          "url": "https://r2.pushpaknagarproperties.org/gallery/aarish-interior-2.jpg"
+        },
+        {
+          "file_name": "aarish-clubhouse.jpg",
+          "file_id": "file_4",
+          "url": "https://r2.pushpaknagarproperties.org/gallery/aarish-clubhouse.jpg"
+        }
+      ],
+      "not_faked": "Not [\"front.jpg\"] text, real File array"
+    },
+    "floor_plans_c": {
+      "type": "File Array Real Storage PDF",
+      "files": [
+        {
+          "file_name": "aarish-2bhk-floor-plan-1050sqft.pdf",
+          "file_id": "file_fp1",
+          "url": "https://r2.pushpaknagarproperties.org/floorplans/aarish-2bhk-floor-plan.pdf",
+          "size": "1.1 MB"
+        }
+      ]
+    },
+    "brochures_c": {
+      "type": "File Array Real Storage PDF",
+      "files": [
+        {
+          "file_name": "aarish-heights-brochure-v46-premium.pdf",
+          "file_id": "file_b1",
+          "url": "https://r2.pushpaknagarproperties.org/brochures/aarish-heights-brochure.pdf",
+          "size": "2.4 MB"
+        }
+      ]
+    }
+  }
+}
